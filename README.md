@@ -5,7 +5,7 @@ webkit-based jailbreak for Playstation Vita/TV on firmware 3.65+
 
 ## usage
 visit ```jailbreak.psp2.dev``` using the Playstation Vita/TV web browser
-or if the official site is down, use '''https://anthj.github.io/henlo_jb'''
+or if the official site is down, use '''anthj.github.io/henlo_jb'''
 
 ![pic-browser-idle](https://user-images.githubusercontent.com/30833773/211209156-1e204953-e533-43e8-aba6-69f8840626a8.jpg)
 
